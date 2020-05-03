@@ -8,6 +8,8 @@ debugEnable = False
 # change this value to True to enable debugging
 
 desired_window_name = "WoT Blitz"
+# you can change it to another desired program and make necessary changes
+
 esc = False
 alt = False
 checkWindow = True
